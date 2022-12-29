@@ -16,9 +16,9 @@
 
 #### <a href = https://replit.com/@ArtemScherbinin/Lab58#main.py> Лабораторная работа №8 </a>
 
-#### <a> Лабораторная работа №9 </a>
+#### <a href = https://replit.com/@ArtemScherbinin/Lab59> Лабораторная работа №9 </a>
 
-#### <a> Лабораторная работа №10 </a>
+#### <a href = https://replit.com/@ArtemScherbinin/Lab510> Лабораторная работа №10 </a>
 
 #### <a> Лабораторная работа №11 </a>
 
